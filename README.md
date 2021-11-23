@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá, seja bem-vindo ao meu perfil no GitHub
 
-<!--
-**CaioAgra/caioagra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😄 Meu nome é Caio Ribeiro Agra, tenho 20 anos
+- 🔭 Atualmente estou estudando a linguagem Java e buscando uma oportunidade como desenvolvedor back-end
+- 📫 Contate-me através do e-mail: caioagrahc@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/CaioAgra">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioAgra&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioAgra&layout=compact&langs_count=7&theme=merko"/>
+    
+ ##
+    
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Caio-Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  
