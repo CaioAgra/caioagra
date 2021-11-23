@@ -12,5 +12,5 @@
  ##
     
  <div style="display: inline_block"><br>
-  <img align="center" alt="Caio-Java" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Caio-Java" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   
