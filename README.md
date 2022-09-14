@@ -3,6 +3,7 @@
 - 😄 Meu nome é Caio Ribeiro Agra, tenho 21 anos
 - 🔭 Atualmente estou estudando Desenvolvimento de Sistemas pela ETEC e busco por uma oportunidade na área de tecnologia
 - 📫 Contate-me através do e-mail: caioagrahc@gmail.com
+- 🧭 LinkedIn: https://www.linkedin.com/in/caio-ribeiro-agra-94484918b/
 
 <div align="center">
   <a href="https://github.com/CaioAgra">
