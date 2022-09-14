@@ -1,7 +1,7 @@
 ### Olá, seja bem-vindo ao meu perfil no GitHub
 
-- 😄 Meu nome é Caio Ribeiro Agra, tenho 20 anos
-- 🔭 Atualmente estou estudando a linguagem Java e buscando uma oportunidade como desenvolvedor back-end
+- 😄 Meu nome é Caio Ribeiro Agra, tenho 21 anos
+- 🔭 Atualmente estou estudando Desenvolvimento de Sistemas pela ETEC e busco por uma oportunidade na área de tecnologia
 - 📫 Contate-me através do e-mail: caioagrahc@gmail.com
 
 <div align="center">
